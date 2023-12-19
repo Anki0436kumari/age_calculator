@@ -1,1 +1,1 @@
-# age_calculator
+Creating an age calculator can be a fun project! Creating an age calculator using web development involves HTML, CSS, and JavaScript.  You can create it in various programming languages. This code asks the user for their birthdate and then calculates their age based on the current date.
